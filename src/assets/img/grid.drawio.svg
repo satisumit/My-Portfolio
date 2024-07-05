@@ -1,0 +1,37 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="171px" height="171px" viewBox="-0.5 -0.5 171 171" content="&lt;mxfile&gt;&lt;diagram id=&quot;df_yg5Xdlokl4k8mHhmT&quot; name=&quot;Page-1&quot;&gt;3Zg9b4MwEIZ/DTvYgSRraZouXZqhswsOWDIccpxC+utris2HSKRKaQxiQXfv+eP8GDjLDg6zai9Ikb5BTLmD3Lhy8LOD0AYj9ayFSyP4AW6ERLC4kbxOOLBvqkVXq2cW09OgoQTgkhVDMYI8p5EcaEQIKIfNjsCHsxYkoSPhEBE+Vj9YLFO9LN/t9FfKktTM7Lk6khHTWAunlMRQ9iS8c3AoAGRjZVVIec3OcGn6vdyItokJmss/ddA9vgg/68XpxOTFrFblWNSmGlUywt8VUZIndfSpTJmkh4JEdbxUe620VGZceZ4yOT3WWbjKFBpHbR8Z5yFwEMrPIa8HGudtEqNC0qon6XXsKWRUiotqYqKGqX6pVtotux3yAq2lvd0x3Yh+KZJ25I6bMjS6GxjRYjFubGLcLBZj61vhuF0ux8AiRzPGYzh+gpSQaXoSiqn/jugKxRbtXRgfWmTsYgwmxIgXgxG5E2L0l4NxNSHGYE41ZsTsCtnbHzUeYvRtlpj1YjFubWKc1cnxXzG2vhWOszo5/i/HtUWOZu55FJlH/x0fVmTwrE6O92FcT4gRLQZjewc4BcZZHcDvw+hbw6jc7j7zN9a7FMa7Hw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="160" height="20" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 0 0 L 160 0 M 160 20 L 0 20" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="0" y="40" width="160" height="20" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 0 40 L 160 40 M 160 60 L 0 60" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="0" y="80" width="160" height="20" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 0 80 L 160 80 M 160 100 L 0 100" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="0" y="120" width="160" height="20" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 0 120 L 160 120 M 160 140 L 0 140" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="0" y="0" width="20" height="160" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 0 0 M 20 0 L 20 160 M 0 160 L 0 0" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="40" y="0" width="20" height="160" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 40 0 M 60 0 L 60 160 M 40 160 L 40 0" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="80" y="0" width="20" height="160" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 80 0 M 100 0 L 100 160 M 80 160 L 80 0" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="120" y="0" width="20" height="160" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 120 0 M 140 0 L 140 160 M 120 160 L 120 0" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="10" y="10" width="160" height="20" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 10 10 L 170 10 M 170 30 L 10 30" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="10" y="50" width="160" height="20" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 10 50 L 170 50 M 170 70 L 10 70" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="10" y="90" width="160" height="20" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 10 90 L 170 90 M 170 110 L 10 110" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="10" y="130" width="160" height="20" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 10 130 L 170 130 M 170 150 L 10 150" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="10" y="10" width="20" height="160" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 10 10 M 30 10 L 30 170 M 10 170 L 10 10" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="50" y="10" width="20" height="160" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 50 10 M 70 10 L 70 170 M 50 170 L 50 10" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="90" y="10" width="20" height="160" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 90 10 M 110 10 L 110 170 M 90 170 L 90 10" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="130" y="10" width="20" height="160" fill="none" stroke="none" pointer-events="all"/>
+        <path d="M 130 10 M 150 10 L 150 170 M 130 170 L 130 10" fill="none" stroke="rgb(0, 0, 0)" stroke-linecap="square" stroke-miterlimit="10" pointer-events="all"/>
+    </g>
+</svg>
