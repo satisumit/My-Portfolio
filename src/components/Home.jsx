@@ -34,7 +34,7 @@ const Home = () => {
               />
               <img
                 className="w-[55px] absolute top-[-40px] -z-10 left-14 rotate-12"
-                src="../src/assets/img/reactLogo.png"
+                src="https://res-console.cloudinary.com/djhehoyxl/media_explorer_thumbnails/95169debda5f945044abf91773be925e/detailed"
                 alt=""
               />
               <div className="code-snap-div h-[280px] w-[280px] bg-contain bg-[url('../src/assets/img/code_bgrd.png')] shadow-custom-yellow rounded-r-lg overflow-hidden "></div>
