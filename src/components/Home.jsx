@@ -24,12 +24,12 @@ const Home = () => {
             >
               <img
                 className="h-[55px] absolute right-[-25px] top-[-20px] rotate-12 z-10"
-                src="../src/assets/img/cppLogo.png"
+                src="https://res-console.cloudinary.com/djhehoyxl/media_explorer_thumbnails/4e08e171864bba5042149b7e18ab8ac7/detailed"
                 alt=""
               />
               <img
                 className="h-[55px] absolute left-[-35px]  top-[80px] -rotate-12 -z-10"
-                src="../src/assets/img/javaLogo.png"
+                src="https://res-console.cloudinary.com/djhehoyxl/media_explorer_thumbnails/26da393c875c735ad4e81ed298829d48/detailed"
                 alt=""
               />
               <img
