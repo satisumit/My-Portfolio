@@ -7,25 +7,25 @@ const Projects = () => {
       name: " Fastest Sorting Algorithm Finder",
       des: "The Fastest Sorting Algorithm Finder is a C++ Windows GUI application designed to identify the most efficient sorting algorithm for a given input array. By leveraging various sorting techniques, this tool benchmarks their performance and highlights the optimal choice for your specific dataset.",
       languagesUsed: "C++, GUI ",
-      img: "../src/assets/img/fsaf.png",
+      img: "https://res-console.cloudinary.com/djhehoyxl/media_explorer_thumbnails/1ac1089fe0c944f2fd694f0abcc6a0a6/detailed",
     },
     {
       name: " To-Do Website",
       des: "The ToDo App is a simple yet functional task management application built using React and Vite, with Tailwind CSS for styling. This app allows users to add and remove tasks , helping them manage their daily activities efficiently.",
       languagesUsed: "HTML5, CSS3, Javascript , ReactJs , TailwindCss ",
-      img: "../src/assets/img/todo.png",
+      img: "https://res-console.cloudinary.com/djhehoyxl/media_explorer_thumbnails/71b27f1118af7cbe1b32728de0f286fa/detailed",
     },
     {
       name: " Scientific Calculator(Android)",
       des: "This is a scientific calculator Android app developed using Java. It provides both basic arithmetic operations and advanced scientific functions.",
       languagesUsed: "Java , Xml ",
-      img: "../src/assets/img/ac.png",
+      img: "https://res-console.cloudinary.com/djhehoyxl/media_explorer_thumbnails/1c5addf0c95b49475d045e2448552c53/detailed",
     },
     {
       name: " Google Classroom Clone (Classes Page)",
       des: "This project is a simple clone of the Google Classroom classes page, created using only HTML and CSS. The data for the classes is extracted from a JavaScript file, allowing easy customization and addition of new classes. ",
       languagesUsed: "HTML5, CSS3, Javascript  ",
-      img: "../src/assets/img/gc.png",
+      img: "https://res-console.cloudinary.com/djhehoyxl/media_explorer_thumbnails/cd16aea696e97fefb2b6503dc5c9f870/detailed",
     },
   ]);
   const refTab = useRef(null);
